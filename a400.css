@@ -1,6 +1,5 @@
 @font-face {
-  font-family: "oneabb-font-abbvoice";
-  src: url(./fonts/ABBvoice_W_Rg.eot);
+  font-family: "oneabb-font-abbvoice";  
   src: url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Rg.eot?#iefix) format("embedded-opentype"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Rg.woff2) format("woff2"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Rg.woff) format("woff");
   font-style: normal;
   font-weight: 400; 
