@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "oneabb-font-abbvoice";
+  src: url(./fonts/ABBvoice_W_Rg.eot);
+  src: url(./fonts/ABBvoice_W_Rg.eot?#iefix) format("embedded-opentype"), url(./fonts/ABBvoice_W_Rg.woff2) format("woff2"), url(./fonts/ABBvoice_W_Rg.woff) format("woff");
+  font-style: normal;
+  font-weight: 400; 
+}
