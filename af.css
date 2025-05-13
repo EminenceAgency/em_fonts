@@ -1,0 +1,24 @@
+@font-face {
+  font-family: oneabb-font-abbvoice;
+  src: url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Lt.eot?#iefix) format("embedded-opentype"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Lt.woff2) format("woff2"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Lt.woff) format("woff");
+  font-style: normal;
+  font-weight: 200; }
+
+@font-face {
+  font-family: oneabb-font-abbvoice;
+  src: url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Rg.eot?#iefix) format("embedded-opentype"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Rg.woff2) format("woff2"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Rg.woff) format("woff");
+  font-style: normal;
+  font-weight: 400; }
+
+@font-face {
+  font-family: oneabb-font-abbvoice;
+  src: url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Md.eot?#iefix) format("embedded-opentype"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Md.woff2) format("woff2"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Md.woff) format("woff");
+  font-style: normal;
+  font-weight: 600; }
+
+@font-face {
+  font-family: oneabb-font-abbvoice;
+  src: url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Bd.eot?#iefix) format("embedded-opentype"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Bd.woff2) format("woff2"), url(https://new.abb.com/cdn/Fonts/abbvoice/ABBvoice_W_Bd.woff) format("woff");
+  font-style: normal;
+  font-weight: 700; }
+
